@@ -68,7 +68,7 @@ function CoffeePage() {
             </div>
 
             <div className="grid">
-              {/* Row 1 */}
+              /* Row 1 */
               <article className="menu-card">
                 <img
                   alt="Espresso"
@@ -100,7 +100,7 @@ function CoffeePage() {
                 </div>
               </article>
 
-              {/* Row 2 */}
+              /* Row 2 */
               <article className="menu-card">
                 <img
                   alt="Latte"

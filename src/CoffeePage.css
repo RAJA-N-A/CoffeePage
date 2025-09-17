@@ -1,6 +1,10 @@
-/* Base / Reset */
-*, *::before, *::after { box-sizing: border-box; }
-html, body { margin: 0; padding: 0; }
+*, *::before, *::after { 
+    box-sizing: border-box; 
+}
+html, body { 
+    margin: 0; 
+    padding: 0; 
+}
 :root {
     --bg: #2f2f30;
     --bg-soft: #3a3a3b;
